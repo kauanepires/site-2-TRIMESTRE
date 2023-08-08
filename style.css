@@ -1,0 +1,60 @@
+body{
+    
+        width: 300px;
+        height: 300px;
+        background-image: url(RATATOUILLE.jpg);
+        background-size: 1700px;
+   
+    background-repeat: no-repeat;
+}
+
+.texto1{
+
+padding-left: 750px;
+width: 1000px;
+height: 500px;
+padding-top: 90px;
+font-size: 25px;
+font-family:Arial, Helvetica, sans-serif
+
+}
+
+*{
+
+    padding: 0%;
+    margin: 2%;
+
+}
+
+
+.p {
+   
+    color: rgb(26, 25, 25);
+    width: 1000px;
+    border: 0%;
+    
+
+}
+#filme{
+background-color: black;
+padding: o 30px 30px 30px;
+position:absolute;
+}
+
+*{
+    max-width:  800px;
+    max-height:150px;
+}
+
+.divisoria1{
+
+display: block;
+
+
+
+}
+
+
+
+
+    
